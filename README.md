@@ -1,70 +1,38 @@
-# Getting Started with Create React App
+# Sorting algorithms visualizer.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Sorting algortihms are really fun!!!
 
-## Available Scripts
+- In this app you can visualize some of the most popular sorting algortihms in real-time or choose two of them and compare them!
+- The project is deployed in [here](https://diegozaratefer.github.io/Sorting-Algorithms-Visualizer/).
 
-In the project directory, you can run:
+I hope you learn a lot using the app!
 
-### `npm start`
+Have fun comparing different algortihms!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The app has two modes:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## One algorithm mode.
+In this mode you can visualize a single sorting algorithm in real time!!
 
-### `npm test`
+![image](https://github.com/diegoZarateFer/Sorting-Algorithms-Visualizer/assets/99451650/9850ed80-9621-4ca0-9003-94e724c7b791)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Two algorithms mode.
+In this mode you can choose two algorithms and visualize them side by side while they are sorting the same input.
 
-### `npm run build`
+![image](https://github.com/diegoZarateFer/Sorting-Algorithms-Visualizer/assets/99451650/aab57e40-f2c8-46c8-ac08-b384ed37d916)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Implemented algorithms.
+✅ Bubble Sort.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+✅ Insertion Sort.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✅ Selection Sort.
 
-### `npm run eject`
+✅ Merge Sort.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+✅ Quick Sort.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+✅ Heap Sort.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Author
+- [Diego Zárate Fernández](https://github.com/diegoZarateFer).
