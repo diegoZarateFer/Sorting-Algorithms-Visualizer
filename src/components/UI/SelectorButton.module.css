@@ -1,0 +1,20 @@
+.selector-button {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-weight: var(--font-weight);
+  border-radius: 3px;
+  padding: 0.5em 0.5em;
+  border: 0;
+  color: var(--font-color);
+  background: transparent;
+  font-size: 1em;
+}
+
+.selector-button:hover {
+  color: var(--button-border-color);
+}
+
+.selected {
+  color: var(--button-selected-color);
+}

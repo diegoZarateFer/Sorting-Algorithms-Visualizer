@@ -1,0 +1,21 @@
+.button {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-weight: var(--font-weight);
+  border-radius: 0.3em;
+  padding: 0.5em 1em;
+  border: 0;
+  color: var(--font-color);
+  background: var(--button-bg-color);
+  font-size: 1em;
+  border: 1px solid transparent;
+}
+
+.button:hover {
+  border: 1px solid white;
+}
+
+.button__toggled {
+  background: rgb(247, 73, 73);
+}

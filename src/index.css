@@ -1,13 +1,36 @@
-body {
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,200;0,9..40,300;1,9..40,200;1,9..40,300&family=Noto+Sans:wght@300;400;700&family=REM:ital@1&family=Titillium+Web:ital@1&display=swap");
+
+* {
+  padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html {
+  --nav-bar-height: 6vh;
+
+  --tools-bar-color: #000000;
+  --algorithm-selector-bar-color: #272727;
+  --body-background-color: #fff;
+
+  --button-bg-color: #0268f0;
+  --button-border-color: #335ed0;
+  --button-selected-color: #1291cc;
+
+  --separator-color: #0268f0;
+  --sample-color: #5068f5;
+
+  --font-weight: 500;
+  --font-color: #fff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans", sans-serif;
+  color: var(--body-background-color);
+  background-color: var(--body-background-color);
 }

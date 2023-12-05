@@ -1,0 +1,14 @@
+.selector {
+  text-align: center;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+}
+
+@media (max-width: 720px) {
+  .selector {
+    flex-direction: column;
+  }
+}
