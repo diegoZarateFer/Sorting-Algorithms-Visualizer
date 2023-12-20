@@ -1,6 +1,6 @@
 # Sorting algorithms visualizer.
 
-Sorting algortihms are really fun!!!
+Sorting algortihms awesome!!!
 
 - In this app you can visualize some of the most popular sorting algortihms in real-time or choose two of them and compare them!
 - The project is deployed in [here](https://diegozaratefer.github.io/Sorting-Algorithms-Visualizer/).
